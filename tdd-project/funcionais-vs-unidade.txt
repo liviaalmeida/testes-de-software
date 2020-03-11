@@ -1,0 +1,3 @@
+O teste funcional é baseado nos requisitos do software enquanto o teste de unidade testa as menores unidades de código
+
+O teste funcional avalia o ambiente externo enquanto o de unidade faz o mesmo com o interno
